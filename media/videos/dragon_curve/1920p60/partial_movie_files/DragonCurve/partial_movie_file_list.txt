@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/1920p60/partial_movie_files/DragonCurve/1544015774_1992398528_223132457.mp4'
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/1920p60/partial_movie_files/DragonCurve/555675692_3956993731_158711749.mp4'
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/1920p60/partial_movie_files/DragonCurve/555675692_2322978037_3341437349.mp4'
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/1920p60/partial_movie_files/DragonCurve/555675692_4277570474_1504457025.mp4'

@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/2160p60/partial_movie_files/DragonCurveScene/3164472712_601605787_223132457.mp4'
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/2160p60/partial_movie_files/DragonCurveScene/1180326919_3142935987_644360872.mp4'
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/2160p60/partial_movie_files/DragonCurveScene/1180326919_199824998_2334262645.mp4'
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/2160p60/partial_movie_files/DragonCurveScene/1180326919_3506589752_875537242.mp4'
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/2160p60/partial_movie_files/DragonCurveScene/1180326919_2888363949_1812484961.mp4'
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/2160p60/partial_movie_files/DragonCurveScene/1180326919_2371219485_1807802147.mp4'
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/2160p60/partial_movie_files/DragonCurveScene/1180326919_2597497473_3760750139.mp4'
+file 'file:/Users/vansh_uni/manim/projects_math/media/videos/dragon_curve/2160p60/partial_movie_files/DragonCurveScene/1180326919_1432596116_3134438906.mp4'
