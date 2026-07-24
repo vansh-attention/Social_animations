@@ -1,4 +1,4 @@
-"""
+                                """
 Support Vector Machines — the kernel trick, in 3D.
 Two classes that no straight line can separate in 2D are lifted onto a
 paraboloid z = x² + y², where a single flat hyperplane separates them.
